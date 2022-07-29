@@ -36,10 +36,7 @@ Full-Stack | Web | Mobile (Android & Flutter)
   <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
 
-
 <a href="mailto:puzuka.pham@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-<a href="https://www.facebook.com/puzuka">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
-</a>
+
