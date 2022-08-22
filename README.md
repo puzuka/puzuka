@@ -1,7 +1,7 @@
 
 # Hi, I'm Tri.
 
-Full-Stack | Web | Mobile (Android & Flutter)
+Full-Stack | Web | Mobile (IOS & Flutter)
 
 [![Github](https://img.shields.io/github/followers/puzuka?style=social)](https://github.com/puzuka)
 [![Github](https://img.shields.io/github/last-commit/puzuka/puzuka)](https://github.com/puzuka/puzuka)
